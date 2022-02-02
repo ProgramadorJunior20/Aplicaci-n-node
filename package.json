@@ -1,13 +1,13 @@
 {
   "name": "04-hacer-tareas",
   "version": "1.0.0",
-  "description": "",
+  "description": "Esta es una app interactiva de node",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "Jefferson Murillo",
   "license": "ISC",
   "dependencies": {
     "colors": "^1.4.0",
